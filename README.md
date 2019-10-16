@@ -1,0 +1,2 @@
+# share
+share to everyone
